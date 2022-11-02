@@ -1,4 +1,4 @@
-# Mid-term-exam-AI-applications-system
+#AI-applications-system
 
 All weekly tasks have been updated and included in the MidTerm file. I wrote an explanation for each line of code.
 
