@@ -94,6 +94,72 @@ network
 • Effects of sparse connections and weight sharing
 • Image classification with a convolutional network
 
+#Week 9 
+https://github.com/Azizbek-Akhmadov/AI-applications-system/blob/main/AI_application_week9.ipynb
+https://github.com/Azizbek-Akhmadov/AI-applications-system/blob/main/AI_application_week9_1_.ipynb
+
+Keras datasets listURL
+https://keras.io/api/datasets/
+
+In this week we mostly worked with "Fully Connected Networks Applied to
+Regression"
+
+Contents:
+Logistic unit for binary classification
+Softmax unit for multiclass classification
+Linear unit for regression
+The Boston Housing dataset
+Predicting house prices with a DNN
+Improving generalization with regularization
+Experiment: Deeper and regularized models for house
+price prediction
+Concluding remarks on output units and regression
+problems
+
+#Week 10 
+
+https://github.com/Azizbek-Akhmadov/AI-applications-system/blob/main/AI_application_week_10.ipynb
+
+Deeper CNNs and Pretrained Models
+
+Contents:
+VGGNet
+GoogLeNet
+ResNet
+Transfer Learning
+Data Augmentation as a Regularization Technique
+Mistakesmade by CNNs
+Reducing parameters with Depthwise Separable
+Convolution
+Striking the right network design balance with
+EfficientNet
+
+Week 11
+https://github.com/Azizbek-Akhmadov/AI-applications-system/blob/main/AI_application_week11.ipynb
+
+In this week we worked with BOOKSTORE SALES DATA FROM US CENSUS BUREAU
+
+Sales data from the United States Census Bureau can be obtained from https://www.census.gov/econ/currentdata.
+
+Select Monthly Retail Trade and Food Services and click the Submit button. That should take you to a page where you need to specify five steps. Select:
+
+Monthly Retail Trade and Food Services
+Start: 1992 End: 2020
+451211: Book Stores
+Sales - Monthly
+U.S. Total
+Make sure that the checkbox Not Seasonally Adjusted is checked. Then click the GET DATA button.
+
+ That should result in a table with data values. Download it to a comma-separated values (CSV) file by clicking the link TXT. Remove the first few lines in the downloaded CSV file, so the file starts with a single line containing headings saying "Period,Value" followed by one line for each month. Further, remove any lines with non-numerical values, such as "NA", at the end of the file. Name the file book_store_sales.csv and copy it to the data directory.
+ 
+ 
+#Week 12 
+
+https://github.com/Azizbek-Akhmadov/AI-applications-system/blob/main/AI_application_week12.ipynb
+
+Working with Deep learning for timeseries
+Different kinds of timeseries tasks
+A temperature-forecasting examples
 
 
 
