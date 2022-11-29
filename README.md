@@ -161,5 +161,16 @@ Working with Deep learning for timeseries
 Different kinds of timeseries tasks
 A temperature-forecasting examples
 
+#Week 13
+
+https://github.com/Azizbek-Akhmadov/AI-applications-system/blob/main/AI_aplication_week13.ipynb
+
+Encoding text
+Longer
+term prediction and autoregressive models
+Beam Search
+Bidirectional RNNS
+Different combinations of input and output sequences
+
 
 
